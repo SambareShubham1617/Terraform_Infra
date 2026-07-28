@@ -1,2 +1,1 @@
-
-iei
+resource "aws_instance" "web" {}
